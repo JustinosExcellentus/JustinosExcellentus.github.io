@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* Variables */
+:root {
+  --font-family: "Press Start 2P";
+  --normal-font: 400;
+  --bold-font: 700;
+  --bolder-font: 900;
+  --nav-color: #142f43;
+  --bg-color: #193e5a;
+  --primary-color: #3bc1be;
+  --secondary-color: #ff7235;
+  --primary-shadow: #737ac5;
+  --secondary-shadow: #a17a69;
+  --bottom-margin: 0.5rem;
+  --bottom-margin-2: 1rem;
+  --line-height: 1.7rem;
+  --transition: 0.3s;
+}
+/* Variables end */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* CSS Resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
+
+body {
+  font-family: var(--font-family);
+  background-color: var(--nav-color);
+  color: var(--primary-color);
+ 
+ 
+  left: 0
+}
+
+header {
+    align-self: center;
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+
+
+
+nav {
+  
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    background-color: var(--nav-color);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  #imageLogo{
+   
+    width: 25%;
+    height: 25%;
+  }
+
+
+
+
+  
+  nav a {
+    color: var(--primary-color);
+    transition: var(--transition);
+  }
+  nav a:hover {
+    color: var(--secondary-color);
+    border-bottom: 2px solid var(--secondary-color);
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 3rem;
+  }
+  
+  nav ul li {
+    font-weight: var(--bold-font);
+  }
