@@ -1,0 +1,22 @@
+{
+  "name": "web-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinosExcellentus/WEB-Project.git"
+  },
+  "author": "Justin Korte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinosExcellentus/WEB-Project/issues"
+  },
+  "homepage": "https://github.com/JustinosExcellentus/WEB-Project#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
