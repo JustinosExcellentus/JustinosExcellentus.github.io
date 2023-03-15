@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JustinosExcellentus/WEB-Project#readme",
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "require": "^2.4.20"
   }
 }
