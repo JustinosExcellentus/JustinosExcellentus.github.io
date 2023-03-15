@@ -20,6 +20,11 @@
        
         
     </div>
+
+    <?php
+echo "My first PHP script!";
+?>
+
     
 </body>
 <script src="main.js" type = "text/javascript"></script>
