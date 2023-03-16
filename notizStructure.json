@@ -79,6 +79,11 @@
           "typ": "directory",
           "elemente": [
             {
+              "name": "AfiKlausurJustin.pdf",
+              "path": "NotizenDir\\Wintersemester 2022\\Analysis für Informatik\\AfiKlausurJustin.pdf",
+              "typ": "file"
+            },
+            {
               "name": "Zusammenfassung.pdf",
               "path": "NotizenDir\\Wintersemester 2022\\Analysis für Informatik\\Zusammenfassung.pdf",
               "typ": "file"
