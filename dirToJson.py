@@ -9,7 +9,7 @@ def path_to_dic(path):
         d['elemente'] = [path_to_dic(os.path.join(path,sub)) for sub in os.listdir\
     (path)]
     else:
-        d['type'] = "file"
+        d['typ'] = "file"
     return d
 
 

@@ -22,12 +22,12 @@
             {
               "name": "ue1.txt",
               "path": "NotizenDir\\Sommersemester 2023\\Malo\\ue1.txt",
-              "type": "file"
+              "typ": "file"
             },
             {
               "name": "vl1.txt",
               "path": "NotizenDir\\Sommersemester 2023\\Malo\\vl1.txt",
-              "type": "file"
+              "typ": "file"
             }
           ]
         }
@@ -46,7 +46,7 @@
             {
               "name": "Uebung1.txt",
               "path": "NotizenDir\\Wintersemester 2022\\Analysis\\Uebung1.txt",
-              "type": "file"
+              "typ": "file"
             }
           ]
         }

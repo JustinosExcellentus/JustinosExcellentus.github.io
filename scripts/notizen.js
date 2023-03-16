@@ -1,10 +1,39 @@
 
-var _getAllFilesFromFolder = function(dir) {
+let body = document.getElementById("notizenBody");
 
 
-};
-let bodyNotizen = document.getElementById("notizenBody");
-//bodyNotizen.innerHTML += "test";
+
+
+
+function jsonZuArray(json){
+    var res = [];
+    var keys = Object.keys(json);
+    keys.forEach(function(key){
+        res.push(json[key]);
+    });
+    return res;
+}
+
 fetch("notizStructure.json")
   .then(response => response.json())
-  .then(json => console.log(json));
+  .then(json => {
+    function buildList(parent, json) {
+        json.forEach((element) => {
+          let newEntry = document.createElement("li")
+          if(element.typ === "file") {
+            newEntry.innerHTML = `<a href="${element.path}">${element.name}</a>`
+            parent.appendChild(newEntry)
+          } else if(element.typ === "directory") {
+            newEntry.innerHTML = element.name
+            parent.appendChild(newEntry)
+            let newParent = document.createElement("ul")
+            newEntry.appendChild(newParent)
+            buildList(newParent, element.elemente);
+          }
+        });
+      }
+
+       console.log(json);
+    
+        buildList(document.body, json.elemente);} );
+
