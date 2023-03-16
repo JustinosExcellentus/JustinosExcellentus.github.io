@@ -22,7 +22,7 @@ fetch("notizStructure.json")
           let newEntry = document.createElement("li")
           if(element.typ === "file") {
             newEntry.classList.add("file");
-            newEntry.innerHTML = `"<font size = 3px><a href="${element.path}" download>"${element.name}"</a></font>"`
+            newEntry.innerHTML = `<font size = 3px><a href=${element.path} download>${element.name}</a></font>`
             parent.appendChild(newEntry)
           } else if(element.typ === "directory") {
             newEntry.classList.add("directory")
