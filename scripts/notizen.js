@@ -8,4 +8,3 @@ let bodyNotizen = document.getElementById("notizenBody");
 fetch("notizStructure.json")
   .then(response => response.json())
   .then(json => console.log(json));
-
