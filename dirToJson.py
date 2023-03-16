@@ -15,5 +15,6 @@ def path_to_dic(path):
 
 with open('notizStructure.json', 'w') as file:
     json.dump(json.dumps(path_to_dic('NotizenDir')), file)
+    print("Successfully completed")
 
 
