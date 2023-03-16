@@ -1,0 +1,56 @@
+{
+  "name": "NotizenDir",
+  "path": "NotizenDir",
+  "typ": "directory",
+  "elemente": [
+    {
+      "name": "Sommersemester 2023",
+      "path": "NotizenDir\\Sommersemester 2023",
+      "typ": "directory",
+      "elemente": [
+        {
+          "name": "Dsal",
+          "path": "NotizenDir\\Sommersemester 2023\\Dsal",
+          "typ": "directory",
+          "elemente": []
+        },
+        {
+          "name": "Malo",
+          "path": "NotizenDir\\Sommersemester 2023\\Malo",
+          "typ": "directory",
+          "elemente": [
+            {
+              "name": "ue1.txt",
+              "path": "NotizenDir\\Sommersemester 2023\\Malo\\ue1.txt",
+              "type": "file"
+            },
+            {
+              "name": "vl1.txt",
+              "path": "NotizenDir\\Sommersemester 2023\\Malo\\vl1.txt",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wintersemester 2022",
+      "path": "NotizenDir\\Wintersemester 2022",
+      "typ": "directory",
+      "elemente": [
+        {
+          "name": "Analysis",
+          "path": "NotizenDir\\Wintersemester 2022\\Analysis",
+          "typ": "directory",
+          "elemente": [
+            {
+              "name": "Uebung1.txt",
+              "path": "NotizenDir\\Wintersemester 2022\\Analysis\\Uebung1.txt",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
