@@ -21,9 +21,11 @@ fetch("notizStructure.json")
         json.forEach((element) => {
           let newEntry = document.createElement("li")
           if(element.typ === "file") {
-            newEntry.innerHTML = `<a href="${element.path}">${element.name}</a>`
+            newEntry.classList.add("file");
+            newEntry.innerHTML = `<a href="${element.path}" download>${element.name}</a>`
             parent.appendChild(newEntry)
           } else if(element.typ === "directory") {
+            newEntry.classList.add("directory")
             newEntry.innerHTML = element.name
             parent.appendChild(newEntry)
             let newParent = document.createElement("ul")

@@ -1,0 +1,25 @@
+#headlineNotizen{
+    margin-left: 10px;
+}
+
+.file {
+    list-style-type: circle;
+    padding-top: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left:20px;
+    
+   
+}
+
+.directory {
+    list-style-type: square;
+    list-style-position: inside;
+    padding-top: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 15px;
+   
+}
+
+
