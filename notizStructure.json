@@ -15,18 +15,18 @@
           "elemente": []
         },
         {
-          "name": "Malo",
-          "path": "NotizenDir\\Sommersemester 2023\\Malo",
+          "name": "Mathematische Logik",
+          "path": "NotizenDir\\Sommersemester 2023\\Mathematische Logik",
           "typ": "directory",
           "elemente": [
             {
-              "name": "ue1.txt",
-              "path": "NotizenDir\\Sommersemester 2023\\Malo\\ue1.txt",
+              "name": "LatexVorlage.tex",
+              "path": "NotizenDir\\Sommersemester 2023\\Mathematische Logik\\LatexVorlage.tex",
               "typ": "file"
             },
             {
-              "name": "vl1.txt",
-              "path": "NotizenDir\\Sommersemester 2023\\Malo\\vl1.txt",
+              "name": "Skript.pdf",
+              "path": "NotizenDir\\Sommersemester 2023\\Mathematische Logik\\Skript.pdf",
               "typ": "file"
             }
           ]
@@ -39,13 +39,13 @@
       "typ": "directory",
       "elemente": [
         {
-          "name": "Analysis",
-          "path": "NotizenDir\\Wintersemester 2022\\Analysis",
+          "name": "Analysis für Informatik",
+          "path": "NotizenDir\\Wintersemester 2022\\Analysis für Informatik",
           "typ": "directory",
           "elemente": [
             {
-              "name": "Uebung1.txt",
-              "path": "NotizenDir\\Wintersemester 2022\\Analysis\\Uebung1.txt",
+              "name": "Zusammenfassung.pdf",
+              "path": "NotizenDir\\Wintersemester 2022\\Analysis für Informatik\\Zusammenfassung.pdf",
               "typ": "file"
             }
           ]
