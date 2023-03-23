@@ -14,7 +14,7 @@ function jsonZuArray(json){
     return res;
 }
 
-fetch("KlausurStructure.json")
+fetch("KlausurenStructure.json")
   .then(response => response.json())
   .then(json => {
     function buildList(parent, json) {
