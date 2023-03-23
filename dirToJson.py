@@ -19,5 +19,10 @@ def path_to_dic(path):
 with open('notizStructure.json', 'w') as file:
     json.dump(json.dumps(path_to_dic('NotizenDir')), file)
     print("Successfully completed")
+    
+    
+with open('KlausurenStructure.json', 'w') as file:
+    json.dump(json.dumps(path_to_dic('KlausurenDir')), file)
+    print("Successfully completed")
 
 
