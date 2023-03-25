@@ -5,16 +5,7 @@ let body = document.getElementById("notizenBody");
 
 
 
-function jsonZuArray(json){
-    var res = [];
-    var keys = Object.keys(json);
-    keys.forEach(function(key){
-        res.push(json[key]);
-    });
-    return res;
-}
-
-fetch("notizStructure.json")
+fetch("JSON/notizStructure.json")
   .then(response => response.json())
   .then(json => {
     function buildList(parent, json) {

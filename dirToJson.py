@@ -31,7 +31,7 @@ def path_to_dic_only_Files(path):
 
 
 with open('JSON/notizStructure.json', 'w') as file:
-    print(json.dump(path_to_dic('KlausurenDir'), file,  indent=2))
+    print(json.dump(path_to_dic('NotizenDir'), file,  indent=2))
     print("Successfully completed")
     
     
