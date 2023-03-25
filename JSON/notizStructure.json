@@ -65,6 +65,18 @@
               "typ": "file"
             }
           ]
+        },
+        {
+          "name": "Praktikum Systemprogrammierung",
+          "path": "NotizenDir\\Sommersemester 2023\\Praktikum Systemprogrammierung",
+          "typ": "directory",
+          "elemente": [
+            {
+              "name": "SysPro.2004-WS-Kowalewski.(SGu).Vorlesungs-und-Uebungsblaetter.zip",
+              "path": "NotizenDir\\Sommersemester 2023\\Praktikum Systemprogrammierung\\SysPro.2004-WS-Kowalewski.(SGu).Vorlesungs-und-Uebungsblaetter.zip",
+              "typ": "file"
+            }
+          ]
         }
       ]
     },
