@@ -16,13 +16,32 @@ def path_to_dic(path):
     return d
 
 
-with open('notizStructure.json', 'w') as file:
-    print(json.dump(json.dumps(path_to_dic('NotizenDir')), file, indent=2))
+
+
+def path_to_dic_only_Files(path):
+    
+   
+    if not os.path.isdir(path):
+        d = {'name': os.path.basename(path)}
+        print("Working on " + os.path.basename(path))
+        d['path'] = path
+        d['typ'] = "file"
+
+    return d
+
+
+with open('JSON/notizStructure.json', 'w') as file:
+    print(json.dump(path_to_dic('KlausurenDir'), file,  indent=2))
     print("Successfully completed")
     
     
-with open('KlausurenStructure.json', 'w') as file:
-    print(json.dump(json.dumps(path_to_dic('KlausurenDir')), file,  indent=2))
+with open('JSON/klausurenStructure.json', 'w') as file:
+    print(json.dump(path_to_dic('KlausurenDir'), file,  indent=2))
+    print("Successfully completed")
+
+
+with open('JSON/navbar.json', 'w') as file:
+    print(json.dump(path_to_dic('navSites'), file,  indent=2));
     print("Successfully completed")
 
 

@@ -4,22 +4,12 @@ let body = document.getElementById("notizenBody");
 
 
 
-
-function jsonZuArray(json){
-    var res = [];
-    var keys = Object.keys(json);
-    keys.forEach(function(key){
-        res.push(json[key]);
-    });
-    return res;
-}
-
-fetch("KlausurenStructure.json")
+fetch("JSON/klausurenStructure.json")
   .then(response => response.json())
   .then(json => {
     function buildList(parent, json) {
         json.forEach((element) => {
-          let newEntry = document.createElement("li")
+          let newEntry = document.createElement("li");
           if(element.typ === "file") {
             newEntry.classList.add("file");
             newEntry.innerHTML = `<font size = 3px><a href="${element.path}" download>${element.name}</a></font>`
@@ -36,6 +26,7 @@ fetch("KlausurenStructure.json")
       }
 
        console.log(json);
+       console.log(document.body)
     
         buildList(document.body, json.elemente);} );
 
