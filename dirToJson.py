@@ -45,3 +45,17 @@ with open('JSON/navbar.json', 'w') as file:
     print("Successfully completed")
 
 
+with open('JSON/uebungStructure.json', 'w') as file:
+    print(json.dump(path_to_dic('UebungDir'), file,  indent=2));
+    print("Successfully completed")
+
+
+
+with open('JSON/folienStructure.json', 'w') as file:
+    print(json.dump(path_to_dic('FolienDir'), file,  indent=2));
+    print("Successfully completed")
+
+
+
+
+
