@@ -1,6 +1,6 @@
 let imgHTML = document.getElementById("logo");
 let listHTML = document.getElementById("navul");
-let navList = [["notizen.html", "Notizen"],["klausur.html", "Klausuren"],["web_simulation.html", "Web-Simulationen"],["projects.html", "Projekte"],["contact.html", "Kontakt"]];
+let navList = [["studium.html", "Studium"],["web_simulation.html", "Web-Simulationen"],["projects.html", "Projekte"],["contact.html", "Kontakt"]];
 
 
 console.log(imgHTML)

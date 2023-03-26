@@ -55,25 +55,8 @@
               "typ": "file"
             },
             {
-              "name": "Skript.pdf",
-              "path": "NotizenDir\\Sommersemester 2023\\Mathematische Logik\\Skript.pdf",
-              "typ": "file"
-            },
-            {
               "name": "Zusammenfassung.pdf",
               "path": "NotizenDir\\Sommersemester 2023\\Mathematische Logik\\Zusammenfassung.pdf",
-              "typ": "file"
-            }
-          ]
-        },
-        {
-          "name": "Praktikum Systemprogrammierung",
-          "path": "NotizenDir\\Sommersemester 2023\\Praktikum Systemprogrammierung",
-          "typ": "directory",
-          "elemente": [
-            {
-              "name": "SysPro.2004-WS-Kowalewski.(SGu).Vorlesungs-und-Uebungsblaetter.zip",
-              "path": "NotizenDir\\Sommersemester 2023\\Praktikum Systemprogrammierung\\SysPro.2004-WS-Kowalewski.(SGu).Vorlesungs-und-Uebungsblaetter.zip",
               "typ": "file"
             }
           ]
