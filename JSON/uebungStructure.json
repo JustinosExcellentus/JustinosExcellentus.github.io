@@ -2,5 +2,31 @@
   "name": "UebungDir",
   "path": "UebungDir",
   "typ": "directory",
-  "elemente": []
+  "elemente": [
+    {
+      "name": "Mathematische Logik",
+      "path": "UebungDir\\Mathematische Logik",
+      "typ": "directory",
+      "elemente": [
+        {
+          "name": "E-Tests",
+          "path": "UebungDir\\Mathematische Logik\\E-Tests",
+          "typ": "directory",
+          "elemente": [
+            {
+              "name": "E-Test 0.png",
+              "path": "UebungDir\\Mathematische Logik\\E-Tests\\E-Test 0.png",
+              "typ": "file"
+            }
+          ]
+        },
+        {
+          "name": "\u00dcbungsbl\u00e4tter",
+          "path": "UebungDir\\Mathematische Logik\\\u00dcbungsbl\u00e4tter",
+          "typ": "directory",
+          "elemente": []
+        }
+      ]
+    }
+  ]
 }

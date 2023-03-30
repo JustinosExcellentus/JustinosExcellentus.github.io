@@ -1,0 +1,18 @@
+import os
+import json
+
+def filesFromDir(path):
+    
+    d = {'name': os.path.basename(path)}
+    print("Working on " + os.path.basename(path))
+    d['path'] = path
+    if os.path.isdir(path):
+        print("Hello " + path)
+
+        d = d | filesFromDir(path)
+    else:
+        d['typ'] = "file"
+    return d
+
+
+filesFromDir("NotizenDir")

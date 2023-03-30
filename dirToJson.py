@@ -2,6 +2,8 @@ import os
 import json
 
 def path_to_dic(path):
+
+  
     
     d = {'name': os.path.basename(path)}
     print("Working on " + os.path.basename(path))
