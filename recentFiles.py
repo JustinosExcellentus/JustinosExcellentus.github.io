@@ -73,19 +73,24 @@ def jsonize(list):
 
 path_to_dic("NotizenDir")
 path_to_dic("KlausurenDir")
+path_to_dic("FolienDir")
+path_to_dic("UebungDir")
+
+timeSort(p)
 
 
 
-t = copyToTime(p)
-print(p)
-p.reverse()
-print("Trennung p und t")
-print(t)
-ftp = createDirFromList(p)
-print(ftp)
+def run():
+    t = copyToTime(p)
+    print(p)
+    p.reverse()
+    print("Trennung p und t")
+    print(t)
+    ftp = createDirFromList(p)
+    print(ftp)
 
 
 
-with open('JSON/recentFiles.json', 'w') as file:
-    print(json.dump(ftp,  file,  indent=2))
-    print("Successfully completed")
+    with open('JSON/recentFiles.json', 'w') as file:
+        print(json.dump(ftp,  file,  indent=2))
+        print("Successfully completed")

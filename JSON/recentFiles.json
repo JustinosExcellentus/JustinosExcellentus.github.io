@@ -1,5 +1,25 @@
 [
   {
+    "name": "FoSAP VL 1 und 2.pdf",
+    "path": "NotizenDir\\Sommersemester 2023\\Formale Systeme, Automaten, Prozesse\\FoSAP VL 1 und 2.pdf",
+    "modifiedTime": "2023-03-31 01:10:05"
+  },
+  {
+    "name": "FoSAP Beweise.pdf",
+    "path": "NotizenDir\\Sommersemester 2023\\Formale Systeme, Automaten, Prozesse\\FoSAP Beweise.pdf",
+    "modifiedTime": "2023-03-30 16:42:32"
+  },
+  {
+    "name": "E-Test 0.png",
+    "path": "UebungDir\\Mathematische Logik\\E-Tests\\E-Test 0.png",
+    "modifiedTime": "2023-03-29 21:53:53"
+  },
+  {
+    "name": "SysPro.2004-WS-Kowalewski.(SGu).Vorlesungs-und-Uebungsblaetter.zip",
+    "path": "FolienDir\\Sommersemester 2023\\Praktikum Systemprogrammierung\\SysPro.2004-WS-Kowalewski.(SGu).Vorlesungs-und-Uebungsblaetter.zip",
+    "modifiedTime": "2023-03-25 19:55:53"
+  },
+  {
     "name": "2022-03-24-Klausur.pdf",
     "path": "KlausurenDir\\Programmierung\\2021-WS\\2022-03-24-Klausur.pdf",
     "modifiedTime": "2023-03-23 21:06:23"
@@ -440,19 +460,14 @@
     "modifiedTime": "2023-03-23 21:06:22"
   },
   {
-    "name": "Zusammenfassung.pdf",
-    "path": "NotizenDir\\Wintersemester 2022\\Analysis f\u00fcr Informatik\\Zusammenfassung.pdf",
-    "modifiedTime": "2023-02-25 00:45:30"
+    "name": "Eigene Probeklausur.pdf",
+    "path": "NotizenDir\\Wintersemester 2022\\Analysis f\u00fcr Informatik\\Eigene Probeklausur.pdf",
+    "modifiedTime": "2023-03-19 16:39:02"
   },
   {
     "name": "Fixpunkte und Banachscher Fixpunktsatz.pdf",
     "path": "NotizenDir\\Wintersemester 2022\\Analysis f\u00fcr Informatik\\Fixpunkte und Banachscher Fixpunktsatz.pdf",
     "modifiedTime": "2023-03-18 16:19:50"
-  },
-  {
-    "name": "Eigene Probeklausur.pdf",
-    "path": "NotizenDir\\Wintersemester 2022\\Analysis f\u00fcr Informatik\\Eigene Probeklausur.pdf",
-    "modifiedTime": "2023-03-19 16:39:02"
   },
   {
     "name": "AfiKlausur.pdf",
@@ -465,18 +480,23 @@
     "modifiedTime": "2023-03-16 04:34:03"
   },
   {
+    "name": "dsalt.txt",
+    "path": "NotizenDir\\Sommersemester 2023\\Datenstrukturen und Algorithmen\\dsalt.txt",
+    "modifiedTime": "2023-03-16 04:30:24"
+  },
+  {
+    "name": "Skript.pdf",
+    "path": "FolienDir\\Sommersemester 2023\\Mathematische Logik\\Skript.pdf",
+    "modifiedTime": "2023-03-16 04:22:44"
+  },
+  {
     "name": "LatexVorlage.tex",
     "path": "NotizenDir\\Sommersemester 2023\\Mathematische Logik\\LatexVorlage.tex",
     "modifiedTime": "2023-03-16 03:24:46"
   },
   {
-    "name": "FoSAP Beweise.pdf",
-    "path": "NotizenDir\\Sommersemester 2023\\Formale Systeme, Automaten, Prozesse\\FoSAP Beweise.pdf",
-    "modifiedTime": "2023-03-30 16:42:32"
-  },
-  {
-    "name": "dsalt.txt",
-    "path": "NotizenDir\\Sommersemester 2023\\Datenstrukturen und Algorithmen\\dsalt.txt",
-    "modifiedTime": "2023-03-16 04:30:24"
+    "name": "Zusammenfassung.pdf",
+    "path": "NotizenDir\\Wintersemester 2022\\Analysis f\u00fcr Informatik\\Zusammenfassung.pdf",
+    "modifiedTime": "2023-02-25 00:45:30"
   }
 ]

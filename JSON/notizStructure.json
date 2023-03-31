@@ -33,10 +33,21 @@
           ]
         },
         {
-          "name": "Formale Sprachen, Automaten, Prozesse",
-          "path": "NotizenDir\\Sommersemester 2023\\Formale Sprachen, Automaten, Prozesse",
+          "name": "Formale Systeme, Automaten, Prozesse",
+          "path": "NotizenDir\\Sommersemester 2023\\Formale Systeme, Automaten, Prozesse",
           "typ": "directory",
-          "elemente": []
+          "elemente": [
+            {
+              "name": "FoSAP Beweise.pdf",
+              "path": "NotizenDir\\Sommersemester 2023\\Formale Systeme, Automaten, Prozesse\\FoSAP Beweise.pdf",
+              "typ": "file"
+            },
+            {
+              "name": "FoSAP VL 1 und 2.pdf",
+              "path": "NotizenDir\\Sommersemester 2023\\Formale Systeme, Automaten, Prozesse\\FoSAP VL 1 und 2.pdf",
+              "typ": "file"
+            }
+          ]
         },
         {
           "name": "Lineare Algebra",

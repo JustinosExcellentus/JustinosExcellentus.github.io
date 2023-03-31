@@ -32,30 +32,32 @@ def path_to_dic_only_Files(path):
     return d
 
 
-with open('JSON/notizStructure.json', 'w') as file:
-    print(json.dump(path_to_dic('NotizenDir'), file,  indent=2))
-    print("Successfully completed")
+
+def run():
+    with open('JSON/notizStructure.json', 'w') as file:
+        print(json.dump(path_to_dic('NotizenDir'), file,  indent=2))
+        print("Successfully completed")
     
     
-with open('JSON/klausurenStructure.json', 'w') as file:
-    print(json.dump(path_to_dic('KlausurenDir'), file,  indent=2))
-    print("Successfully completed")
+    with open('JSON/klausurenStructure.json', 'w') as file:
+        print(json.dump(path_to_dic('KlausurenDir'), file,  indent=2))
+        print("Successfully completed")
 
 
-with open('JSON/navbar.json', 'w') as file:
-    print(json.dump(path_to_dic('navSites'), file,  indent=2));
-    print("Successfully completed")
+    with open('JSON/navbar.json', 'w') as file:
+        print(json.dump(path_to_dic('navSites'), file,  indent=2));
+        print("Successfully completed")
 
 
-with open('JSON/uebungStructure.json', 'w') as file:
-    print(json.dump(path_to_dic('UebungDir'), file,  indent=2));
-    print("Successfully completed")
+    with open('JSON/uebungStructure.json', 'w') as file:
+        print(json.dump(path_to_dic('UebungDir'), file,  indent=2));
+        print("Successfully completed")
 
 
 
-with open('JSON/folienStructure.json', 'w') as file:
-    print(json.dump(path_to_dic('FolienDir'), file,  indent=2));
-    print("Successfully completed")
+    with open('JSON/folienStructure.json', 'w') as file:
+        print(json.dump(path_to_dic('FolienDir'), file,  indent=2));
+        print("Successfully completed")
 
 
 
