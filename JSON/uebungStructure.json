@@ -9,13 +9,13 @@
       "typ": "directory",
       "elemente": [
         {
-          "name": "Abgabe_0.pdf",
-          "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Abgabe_0.pdf",
+          "name": "Stochastik_Abgabe_0.pdf",
+          "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Stochastik_Abgabe_0.pdf",
           "typ": "file"
         },
         {
-          "name": "Blatt0.pdf",
-          "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Blatt0.pdf",
+          "name": "Stochastik_Blatt0.pdf",
+          "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Stochastik_Blatt0.pdf",
           "typ": "file"
         }
       ]
@@ -31,8 +31,8 @@
           "typ": "directory",
           "elemente": [
             {
-              "name": "E-Test 0.png",
-              "path": "UebungDir\\Mathematische Logik\\E-Tests\\E-Test 0.png",
+              "name": "MaLo E-Test 0.png",
+              "path": "UebungDir\\Mathematische Logik\\E-Tests\\MaLo E-Test 0.png",
               "typ": "file"
             }
           ]

@@ -1,13 +1,18 @@
 [
   {
-    "name": "Abgabe_0.pdf",
-    "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Abgabe_0.pdf",
+    "name": "Stochastik_Abgabe_0.pdf",
+    "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Stochastik_Abgabe_0.pdf",
     "modifiedTime": "2023-04-03 03:59:35"
   },
   {
-    "name": "Blatt0.pdf",
-    "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Blatt0.pdf",
+    "name": "Stochastik_Blatt0.pdf",
+    "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Stochastik_Blatt0.pdf",
     "modifiedTime": "2023-04-03 01:29:18"
+  },
+  {
+    "name": "LA Hiss VL-Notizen.pdf",
+    "path": "NotizenDir\\Sommersemester 2023\\Lineare Algebra\\LA Hiss VL-Notizen.pdf",
+    "modifiedTime": "2023-04-02 22:13:56"
   },
   {
     "name": "FoSAP Beweise.pdf",
@@ -20,8 +25,8 @@
     "modifiedTime": "2023-03-31 01:10:05"
   },
   {
-    "name": "E-Test 0.png",
-    "path": "UebungDir\\Mathematische Logik\\E-Tests\\E-Test 0.png",
+    "name": "MaLo E-Test 0.png",
+    "path": "UebungDir\\Mathematische Logik\\E-Tests\\MaLo E-Test 0.png",
     "modifiedTime": "2023-03-29 21:53:53"
   },
   {
@@ -485,8 +490,8 @@
     "modifiedTime": "2023-03-16 20:29:40"
   },
   {
-    "name": "Zusammenfassung.pdf",
-    "path": "NotizenDir\\Sommersemester 2023\\Mathematische Logik\\Zusammenfassung.pdf",
+    "name": "MaLo Vorlesungsnotizen.pdf",
+    "path": "NotizenDir\\Sommersemester 2023\\Mathematische Logik\\MaLo Vorlesungsnotizen.pdf",
     "modifiedTime": "2023-03-16 04:34:03"
   },
   {

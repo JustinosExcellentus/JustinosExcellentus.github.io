@@ -53,7 +53,13 @@
           "name": "Lineare Algebra",
           "path": "NotizenDir\\Sommersemester 2023\\Lineare Algebra",
           "typ": "directory",
-          "elemente": []
+          "elemente": [
+            {
+              "name": "LA Hiss VL-Notizen.pdf",
+              "path": "NotizenDir\\Sommersemester 2023\\Lineare Algebra\\LA Hiss VL-Notizen.pdf",
+              "typ": "file"
+            }
+          ]
         },
         {
           "name": "Mathematische Logik",
@@ -66,8 +72,8 @@
               "typ": "file"
             },
             {
-              "name": "Zusammenfassung.pdf",
-              "path": "NotizenDir\\Sommersemester 2023\\Mathematische Logik\\Zusammenfassung.pdf",
+              "name": "MaLo Vorlesungsnotizen.pdf",
+              "path": "NotizenDir\\Sommersemester 2023\\Mathematische Logik\\MaLo Vorlesungsnotizen.pdf",
               "typ": "file"
             }
           ]
