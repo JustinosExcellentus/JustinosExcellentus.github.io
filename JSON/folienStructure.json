@@ -9,6 +9,18 @@
       "typ": "directory",
       "elemente": [
         {
+          "name": "Datenstrukturen und Algorithmen",
+          "path": "FolienDir\\Sommersemester 2023\\Datenstrukturen und Algorithmen",
+          "typ": "directory",
+          "elemente": [
+            {
+              "name": "Dsal VL 1 - Algorithmic Complexity.pdf",
+              "path": "FolienDir\\Sommersemester 2023\\Datenstrukturen und Algorithmen\\Dsal VL 1 - Algorithmic Complexity.pdf",
+              "typ": "file"
+            }
+          ]
+        },
+        {
           "name": "Mathematische Logik",
           "path": "FolienDir\\Sommersemester 2023\\Mathematische Logik",
           "typ": "directory",
