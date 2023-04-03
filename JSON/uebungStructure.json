@@ -4,6 +4,23 @@
   "typ": "directory",
   "elemente": [
     {
+      "name": "Einf\u00fchrung in die angewandte Stochastik",
+      "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik",
+      "typ": "directory",
+      "elemente": [
+        {
+          "name": "Abgabe_0.pdf",
+          "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Abgabe_0.pdf",
+          "typ": "file"
+        },
+        {
+          "name": "Blatt0.pdf",
+          "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Blatt0.pdf",
+          "typ": "file"
+        }
+      ]
+    },
+    {
       "name": "Mathematische Logik",
       "path": "UebungDir\\Mathematische Logik",
       "typ": "directory",
