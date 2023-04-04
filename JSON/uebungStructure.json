@@ -36,12 +36,6 @@
               "typ": "file"
             }
           ]
-        },
-        {
-          "name": "\u00dcbungsbl\u00e4tter",
-          "path": "UebungDir\\Mathematische Logik\\\u00dcbungsbl\u00e4tter",
-          "typ": "directory",
-          "elemente": []
         }
       ]
     }
