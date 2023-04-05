@@ -4,44 +4,63 @@
   "typ": "directory",
   "elemente": [
     {
-      "name": "Einf\u00fchrung in die angewandte Stochastik",
-      "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik",
+      "name": "Sommersemester 2023",
+      "path": "UebungDir\\Sommersemester 2023",
       "typ": "directory",
       "elemente": [
         {
-          "name": "Stochastik_Abgabe_0.pdf",
-          "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Stochastik_Abgabe_0.pdf",
-          "typ": "file"
-        },
-        {
-          "name": "Stochastik_Blatt0.pdf",
-          "path": "UebungDir\\Einf\u00fchrung in die angewandte Stochastik\\Stochastik_Blatt0.pdf",
-          "typ": "file"
-        }
-      ]
-    },
-    {
-      "name": "Mathematische Logik",
-      "path": "UebungDir\\Mathematische Logik",
-      "typ": "directory",
-      "elemente": [
-        {
-          "name": "E-Tests",
-          "path": "UebungDir\\Mathematische Logik\\E-Tests",
+          "name": "Einf\u00fchrung in die angewandte Stochastik",
+          "path": "UebungDir\\Sommersemester 2023\\Einf\u00fchrung in die angewandte Stochastik",
           "typ": "directory",
           "elemente": [
             {
-              "name": "MaLo E-Test 0.png",
-              "path": "UebungDir\\Mathematische Logik\\E-Tests\\MaLo E-Test 0.png",
+              "name": "Stochastik_Abgabe_0.pdf",
+              "path": "UebungDir\\Sommersemester 2023\\Einf\u00fchrung in die angewandte Stochastik\\Stochastik_Abgabe_0.pdf",
+              "typ": "file"
+            },
+            {
+              "name": "Stochastik_Blatt0.pdf",
+              "path": "UebungDir\\Sommersemester 2023\\Einf\u00fchrung in die angewandte Stochastik\\Stochastik_Blatt0.pdf",
               "typ": "file"
             }
           ]
         },
         {
-          "name": "\u00dcbungsbl\u00e4tter",
-          "path": "UebungDir\\Mathematische Logik\\\u00dcbungsbl\u00e4tter",
+          "name": "Mathematische Logik",
+          "path": "UebungDir\\Sommersemester 2023\\Mathematische Logik",
           "typ": "directory",
-          "elemente": []
+          "elemente": [
+            {
+              "name": "E-Tests",
+              "path": "UebungDir\\Sommersemester 2023\\Mathematische Logik\\E-Tests",
+              "typ": "directory",
+              "elemente": [
+                {
+                  "name": "MaLo E-Test 0.png",
+                  "path": "UebungDir\\Sommersemester 2023\\Mathematische Logik\\E-Tests\\MaLo E-Test 0.png",
+                  "typ": "file"
+                }
+              ]
+            },
+            {
+              "name": "\u00dcbungsbl\u00e4tter",
+              "path": "UebungDir\\Sommersemester 2023\\Mathematische Logik\\\u00dcbungsbl\u00e4tter",
+              "typ": "directory",
+              "elemente": []
+            }
+          ]
+        },
+        {
+          "name": "Numerische Analysis II",
+          "path": "UebungDir\\Sommersemester 2023\\Numerische Analysis II",
+          "typ": "directory",
+          "elemente": [
+            {
+              "name": "Numa II Blatt 1.pdf",
+              "path": "UebungDir\\Sommersemester 2023\\Numerische Analysis II\\Numa II Blatt 1.pdf",
+              "typ": "file"
+            }
+          ]
         }
       ]
     }

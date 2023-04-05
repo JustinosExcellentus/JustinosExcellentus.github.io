@@ -33,6 +33,18 @@
           ]
         },
         {
+          "name": "Numerischa Analysis II",
+          "path": "FolienDir\\Sommersemester 2023\\Numerischa Analysis II",
+          "typ": "directory",
+          "elemente": [
+            {
+              "name": "Numa II VL 1.pdf",
+              "path": "FolienDir\\Sommersemester 2023\\Numerischa Analysis II\\Numa II VL 1.pdf",
+              "typ": "file"
+            }
+          ]
+        },
+        {
           "name": "Praktikum Systemprogrammierung",
           "path": "FolienDir\\Sommersemester 2023\\Praktikum Systemprogrammierung",
           "typ": "directory",
