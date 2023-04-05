@@ -1,5 +1,6 @@
 {
   "name": "navSites",
   "path": "navSites",
-  "typ": "file"
+  "typ": "directory",
+  "elemente": []
 }

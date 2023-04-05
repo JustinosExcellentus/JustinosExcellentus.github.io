@@ -4,12 +4,6 @@
   "typ": "directory",
   "elemente": [
     {
-      "name": "Analysis f\u00fcr Informatiker",
-      "path": "KlausurenDir\\Analysis f\u00fcr Informatiker",
-      "typ": "directory",
-      "elemente": []
-    },
-    {
       "name": "Programmierung",
       "path": "KlausurenDir\\Programmierung",
       "typ": "directory",

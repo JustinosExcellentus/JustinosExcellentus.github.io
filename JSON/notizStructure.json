@@ -9,6 +9,18 @@
       "typ": "directory",
       "elemente": [
         {
+          "name": "Betriebssysteme und Systemsoftware",
+          "path": "NotizenDir\\Sommersemester 2023\\Betriebssysteme und Systemsoftware",
+          "typ": "directory",
+          "elemente": []
+        },
+        {
+          "name": "Datenbanken und Informationssysteme",
+          "path": "NotizenDir\\Sommersemester 2023\\Datenbanken und Informationssysteme",
+          "typ": "directory",
+          "elemente": []
+        },
+        {
           "name": "Datenstrukturen und Algorithmen",
           "path": "NotizenDir\\Sommersemester 2023\\Datenstrukturen und Algorithmen",
           "typ": "directory",
@@ -99,6 +111,42 @@
               "typ": "file"
             }
           ]
+        },
+        {
+          "name": "Berechenbarkeit und Komplexit\u00e4t",
+          "path": "NotizenDir\\Wintersemester 2022\\Berechenbarkeit und Komplexit\u00e4t",
+          "typ": "directory",
+          "elemente": []
+        },
+        {
+          "name": "Datenkommunikation",
+          "path": "NotizenDir\\Wintersemester 2022\\Datenkommunikation",
+          "typ": "directory",
+          "elemente": []
+        },
+        {
+          "name": "Diskrete Strukturen",
+          "path": "NotizenDir\\Wintersemester 2022\\Diskrete Strukturen",
+          "typ": "directory",
+          "elemente": []
+        },
+        {
+          "name": "Numerische Analysis I",
+          "path": "NotizenDir\\Wintersemester 2022\\Numerische Analysis I",
+          "typ": "directory",
+          "elemente": []
+        },
+        {
+          "name": "Programmierung",
+          "path": "NotizenDir\\Wintersemester 2022\\Programmierung",
+          "typ": "directory",
+          "elemente": []
+        },
+        {
+          "name": "Technische Informatik",
+          "path": "NotizenDir\\Wintersemester 2022\\Technische Informatik",
+          "typ": "directory",
+          "elemente": []
         }
       ]
     }
