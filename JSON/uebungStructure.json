@@ -26,6 +26,18 @@
           ]
         },
         {
+          "name": "Lineare Algebra",
+          "path": "UebungDir\\Sommersemester 2023\\Lineare Algebra",
+          "typ": "directory",
+          "elemente": [
+            {
+              "name": "Blatt1_LA_Nebe.pdf",
+              "path": "UebungDir\\Sommersemester 2023\\Lineare Algebra\\Blatt1_LA_Nebe.pdf",
+              "typ": "file"
+            }
+          ]
+        },
+        {
           "name": "Mathematische Logik",
           "path": "UebungDir\\Sommersemester 2023\\Mathematische Logik",
           "typ": "directory",
